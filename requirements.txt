@@ -18,7 +18,7 @@ numpy==1.26.3
 packaging==23.2
 pandas==2.1.4
 patsy==0.5.6
-pillow==10.2.0
+pillow>=12.3.0
 platformdirs==4.1.0
 polars==0.20.4
 pyaml==23.12.0
